@@ -4,6 +4,8 @@
 
 All clips are AI-generated with Google Flow. They are not filmed footage.
 
+**Preview and download every clip: <https://alpha-zoo.vercel.app>**
+
 ## Files
 
 Each creature in `videos/` has four files:
