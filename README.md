@@ -1,6 +1,6 @@
 # Studypress sea creatures
 
-79 sea creature video clips with transparent backgrounds, finished for the [Studypress](https://apps.apple.com/jp/app/id6811388420) app.
+82 sea creature video clips with transparent backgrounds, finished for the [Studypress](https://apps.apple.com/jp/app/id6811388420) app.
 
 All clips are AI-generated with Google Flow. They are not filmed footage.
 
